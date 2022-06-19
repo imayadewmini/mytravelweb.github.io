@@ -272,7 +272,7 @@ p{
       align-items: center;
    }
    .image-gallery img{
-      width: 90%;
+      width: 50vw;
    }
    .footer{
       padding: 10px;
