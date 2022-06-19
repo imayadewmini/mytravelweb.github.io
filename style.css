@@ -169,7 +169,7 @@ p{
     padding-left: 0;
 }
 .image-col{
-    width: 50vw;
+    width: 60%;
 }
 .tours .image-gallery{
     display: flex;
@@ -179,7 +179,7 @@ p{
 }
 .image-gallery img{
     max-width: 300px;
-    margin: 8px;
+    margin: 10px;
 }
 .content-col h1{
     font-size: 5vmin;
