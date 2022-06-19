@@ -169,7 +169,7 @@ p{
     padding-left: 0;
 }
 .image-col{
-    width: 60%;
+    width: 60vw;
 }
 .tours .image-gallery{
     display: flex;
